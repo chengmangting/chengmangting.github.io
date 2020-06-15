@@ -1,0 +1,25 @@
+{
+	"name": "星星",
+	"short_name": "星星",
+	"start_url": "index.html",
+	"display": "standalone",
+	"background_color": "#ff57b1",
+	"description": "星星的个人主页",
+	"theme_color": "pink",
+	"icons":[
+		{
+			"src": "./xingxing.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		}
+	],
+	"related_applications": [
+		{
+			"platform": "web"
+		},
+		{
+			"platform": "play",
+			"url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
+		}
+	]
+}
